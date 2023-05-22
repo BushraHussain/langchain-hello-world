@@ -1,8 +1,10 @@
 # langchain-hello-world
 Hello world app using langchain
 
-1. Create a node js project
-2. Run following commands,
+1. Create a node js project using this guide
+https://khalilstemmler.com/blogs/typescript/node-starter-project/
+
+2. Run following commands in the project,
   npm i dotenv
   npm i --save-dev @types/node
   npm install -S langchain
